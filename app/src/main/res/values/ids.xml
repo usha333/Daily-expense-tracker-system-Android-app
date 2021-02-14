@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="button" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="content_frame" type="id" />
+    <item name="nav_drawer" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="nav_today" type="id" />
+    <item name="nav_settings" type="id" />
+    <item name="nav_categories" type="id" />
+    <item name="nav_report" type="id" />
+    <item name="editText5" type="id" />
+    <item name="filter_expenses_menu_item" type="id" />
+    <item name="today_filter_option" type="id" />
+    <item name="week_filter_option" type="id" />
+    <item name="month_filter_option" type="id" />
+    <item name="date_filter_option" type="id" />
+    <item name="range_filter_option" type="id" />
+</resources>

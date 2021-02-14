@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/action_today"
+    app:showAsAction="never"
+    android:title="today">
+
+    </item>
+
+    <item android:id="@+id/action_monthly"
+        app:showAsAction="never"
+        android:title="monthly">
+
+    </item>
+
+    <item android:id="@+id/action_weekly"
+        app:showAsAction="never"
+        android:title="weekly">
+
+    </item>
+
+
+    <item android:id="@+id/action_yearly"
+        app:showAsAction="never"
+        android:title="yearly">
+
+    </item>
+
+</menu>

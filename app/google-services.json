@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "308150215069",
+    "firebase_url": "https://dedaily-3d0ae.firebaseio.com",
+    "project_id": "dedaily-3d0ae",
+    "storage_bucket": "dedaily-3d0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308150215069:android:f2f56332788e38ecf54f74",
+        "android_client_info": {
+          "package_name": "com.example.dedaily2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308150215069-ol2g0d3357q5frb7bmc6ftpp4gv6kjkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dedaily2",
+            "certificate_hash": "5510dfff6905672a85b24fada23e60f99ff00cb2"
+          }
+        },
+        {
+          "client_id": "308150215069-duuc972si5apmb1ngn3dp0ahbvcspso1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvP-G1iIWFpXytdbRRof85e195YGOiZ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308150215069-duuc972si5apmb1ngn3dp0ahbvcspso1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308150215069:android:3f635d970f61ca3af54f74",
+        "android_client_info": {
+          "package_name": "example.Dedaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308150215069-duuc972si5apmb1ngn3dp0ahbvcspso1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvP-G1iIWFpXytdbRRof85e195YGOiZ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308150215069-duuc972si5apmb1ngn3dp0ahbvcspso1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
